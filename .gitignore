@@ -1,4 +1,5 @@
 # Logs
+.baxian/
 logs
 *.log
 npm-debug.log*
